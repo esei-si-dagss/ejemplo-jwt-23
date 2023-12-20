@@ -39,7 +39,7 @@
 
 En un terminal
 ```sh
-cd ejemplo-jwt-dagss
+cd ejemplo-jwt-23
 mvn spring-boot:run
 ```
 
